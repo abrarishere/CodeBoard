@@ -70,14 +70,8 @@ public class CodeBoardIME extends InputMethodService
     int[] soundResources = {
             R.raw.keypress_sound,
             R.raw.sound2,
-            R.raw.sound3,
-            R.raw.sound4,
-            R.raw.sound5,
-            R.raw.sound6,
-            R.raw.sound7,
-            R.raw.sound8,
-            R.raw.sound9,
-            R.raw.sound10
+            R.raw.nd3,
+            R.raw.nd4
     };
 
 
@@ -316,7 +310,7 @@ public class CodeBoardIME extends InputMethodService
     public void onPress(final int primaryCode) {
         if (soundOn) {
             Random randSound = new Random();
-            int randomSoundIndex = rand.nextInt(5);
+            int randomSoundIndex = rand.nextInt(4);
             int soundResource = soundResources[randomSoundIndex];
             MediaPlayer keypressSoundPlayer = MediaPlayer.create(this, soundResource);
             keypressSoundPlayer.start();
