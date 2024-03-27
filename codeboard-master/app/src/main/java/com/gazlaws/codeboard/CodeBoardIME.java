@@ -67,6 +67,19 @@ public class CodeBoardIME extends InputMethodService
     private KeyboardUiFactory mKeyboardUiFactory = null;
     private KeyboardLayoutView mCurrentKeyboardLayoutView = null;
     private boolean longPressedSpaceButton = false;
+    int[] soundResources = {
+            R.raw.keypress_sound,
+            R.raw.sound2,
+            R.raw.sound3,
+            R.raw.sound4,
+            R.raw.sound5,
+            R.raw.sound6,
+            R.raw.sound7,
+            R.raw.sound8,
+            R.raw.sound9,
+            R.raw.sound10
+    };
+
 
     @Override
     public void onKey(int primaryCode, int[] KeyCodes) {
@@ -302,7 +315,10 @@ public class CodeBoardIME extends InputMethodService
 
     public void onPress(final int primaryCode) {
         if (soundOn) {
-            MediaPlayer keypressSoundPlayer = MediaPlayer.create(this, R.raw.keypress_sound);
+            Random randSound = new Random();
+            int randomSoundIndex = rand.nextInt(5);
+            int soundResource = soundResources[randomSoundIndex];
+            MediaPlayer keypressSoundPlayer = MediaPlayer.create(this, soundResource);
             keypressSoundPlayer.start();
             keypressSoundPlayer.setOnCompletionListener(new MediaPlayer.OnCompletionListener() {
                 public void onCompletion(MediaPlayer mp) {
