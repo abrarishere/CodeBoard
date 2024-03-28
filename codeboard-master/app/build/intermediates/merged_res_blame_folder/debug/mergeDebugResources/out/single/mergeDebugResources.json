@@ -1,0 +1,306 @@
+[
+    {
+        "merged": "com.gazlaws.codeboard.app-debug-19:/raw_i.wav.flat",
+        "source": "com.gazlaws.codeboard.app-main-21:/raw/i.wav"
+    },
+    {
+        "merged": "com.gazlaws.codeboard.app-debug-19:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.gazlaws.codeboard.app-main-21:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.gazlaws.codeboard.app-debug-19:/drawable_ic_paste_24dp.xml.flat",
+        "source": "com.gazlaws.codeboard.app-main-21:/drawable/ic_paste_24dp.xml"
+    },
+    {
+        "merged": "com.gazlaws.codeboard.app-debug-19:/drawable_icon_large.png.flat",
+        "source": "com.gazlaws.codeboard.app-main-21:/drawable/icon_large.png"
+    },
+    {
+        "merged": "com.gazlaws.codeboard.app-debug-19:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.gazlaws.codeboard.app-main-21:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.gazlaws.codeboard.app-debug-19:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.gazlaws.codeboard.app-main-21:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.gazlaws.codeboard.app-debug-19:/raw_p.wav.flat",
+        "source": "com.gazlaws.codeboard.app-main-21:/raw/p.wav"
+    },
+    {
+        "merged": "com.gazlaws.codeboard.app-debug-19:/raw_b.wav.flat",
+        "source": "com.gazlaws.codeboard.app-main-21:/raw/b.wav"
+    },
+    {
+        "merged": "com.gazlaws.codeboard.app-debug-19:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.gazlaws.codeboard.app-main-21:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.gazlaws.codeboard.app-debug-19:/drawable_ic_space_bar_24dp.xml.flat",
+        "source": "com.gazlaws.codeboard.app-main-21:/drawable/ic_space_bar_24dp.xml"
+    },
+    {
+        "merged": "com.gazlaws.codeboard.app-debug-19:/drawable_ic_keyboard_arrow_right_24dp.xml.flat",
+        "source": "com.gazlaws.codeboard.app-main-21:/drawable/ic_keyboard_arrow_right_24dp.xml"
+    },
+    {
+        "merged": "com.gazlaws.codeboard.app-debug-19:/raw_space.wav.flat",
+        "source": "com.gazlaws.codeboard.app-main-21:/raw/space.wav"
+    },
+    {
+        "merged": "com.gazlaws.codeboard.app-debug-19:/layout_codeboard_intro1.xml.flat",
+        "source": "com.gazlaws.codeboard.app-main-21:/layout/codeboard_intro1.xml"
+    },
+    {
+        "merged": "com.gazlaws.codeboard.app-debug-19:/drawable_ic_copy_24dp.xml.flat",
+        "source": "com.gazlaws.codeboard.app-main-21:/drawable/ic_copy_24dp.xml"
+    },
+    {
+        "merged": "com.gazlaws.codeboard.app-debug-19:/raw_t.wav.flat",
+        "source": "com.gazlaws.codeboard.app-main-21:/raw/t.wav"
+    },
+    {
+        "merged": "com.gazlaws.codeboard.app-debug-19:/drawable_ic_keyboard_arrow_left_24dp.xml.flat",
+        "source": "com.gazlaws.codeboard.app-main-21:/drawable/ic_keyboard_arrow_left_24dp.xml"
+    },
+    {
+        "merged": "com.gazlaws.codeboard.app-debug-19:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.gazlaws.codeboard.app-main-21:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.gazlaws.codeboard.app-debug-19:/raw_m.wav.flat",
+        "source": "com.gazlaws.codeboard.app-main-21:/raw/m.wav"
+    },
+    {
+        "merged": "com.gazlaws.codeboard.app-debug-19:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.gazlaws.codeboard.app-main-21:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.gazlaws.codeboard.app-debug-19:/raw_w.wav.flat",
+        "source": "com.gazlaws.codeboard.app-main-21:/raw/w.wav"
+    },
+    {
+        "merged": "com.gazlaws.codeboard.app-debug-19:/drawable_ic_undo_24dp.xml.flat",
+        "source": "com.gazlaws.codeboard.app-main-21:/drawable/ic_undo_24dp.xml"
+    },
+    {
+        "merged": "com.gazlaws.codeboard.app-debug-19:/drawable_intro1.png.flat",
+        "source": "com.gazlaws.codeboard.app-main-21:/drawable/intro1.png"
+    },
+    {
+        "merged": "com.gazlaws.codeboard.app-debug-19:/drawable_icon_old_1.png.flat",
+        "source": "com.gazlaws.codeboard.app-main-21:/drawable/icon_old_1.png"
+    },
+    {
+        "merged": "com.gazlaws.codeboard.app-debug-19:/raw_f.wav.flat",
+        "source": "com.gazlaws.codeboard.app-main-21:/raw/f.wav"
+    },
+    {
+        "merged": "com.gazlaws.codeboard.app-debug-19:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.gazlaws.codeboard.app-main-21:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.gazlaws.codeboard.app-debug-19:/raw_z.wav.flat",
+        "source": "com.gazlaws.codeboard.app-main-21:/raw/z.wav"
+    },
+    {
+        "merged": "com.gazlaws.codeboard.app-debug-19:/raw_a.wav.flat",
+        "source": "com.gazlaws.codeboard.app-main-21:/raw/a.wav"
+    },
+    {
+        "merged": "com.gazlaws.codeboard.app-debug-19:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.gazlaws.codeboard.app-main-21:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.gazlaws.codeboard.app-debug-19:/raw_h.wav.flat",
+        "source": "com.gazlaws.codeboard.app-main-21:/raw/h.wav"
+    },
+    {
+        "merged": "com.gazlaws.codeboard.app-debug-19:/raw_s.wav.flat",
+        "source": "com.gazlaws.codeboard.app-main-21:/raw/s.wav"
+    },
+    {
+        "merged": "com.gazlaws.codeboard.app-debug-19:/raw_bracclose.wav.flat",
+        "source": "com.gazlaws.codeboard.app-main-21:/raw/bracclose.wav"
+    },
+    {
+        "merged": "com.gazlaws.codeboard.app-debug-19:/drawable_ic_keyboard_return_24dp.xml.flat",
+        "source": "com.gazlaws.codeboard.app-main-21:/drawable/ic_keyboard_return_24dp.xml"
+    },
+    {
+        "merged": "com.gazlaws.codeboard.app-debug-19:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.gazlaws.codeboard.app-main-21:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.gazlaws.codeboard.app-debug-19:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.gazlaws.codeboard.app-main-21:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.gazlaws.codeboard.app-debug-19:/raw_o.wav.flat",
+        "source": "com.gazlaws.codeboard.app-main-21:/raw/o.wav"
+    },
+    {
+        "merged": "com.gazlaws.codeboard.app-debug-19:/raw_shift.wav.flat",
+        "source": "com.gazlaws.codeboard.app-main-21:/raw/shift.wav"
+    },
+    {
+        "merged": "com.gazlaws.codeboard.app-debug-19:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.gazlaws.codeboard.app-main-21:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.gazlaws.codeboard.app-debug-19:/raw_v.wav.flat",
+        "source": "com.gazlaws.codeboard.app-main-21:/raw/v.wav"
+    },
+    {
+        "merged": "com.gazlaws.codeboard.app-debug-19:/drawable_ic_select_all_24dp.xml.flat",
+        "source": "com.gazlaws.codeboard.app-main-21:/drawable/ic_select_all_24dp.xml"
+    },
+    {
+        "merged": "com.gazlaws.codeboard.app-debug-19:/raw_e.wav.flat",
+        "source": "com.gazlaws.codeboard.app-main-21:/raw/e.wav"
+    },
+    {
+        "merged": "com.gazlaws.codeboard.app-debug-19:/layout_new_activity_main.xml.flat",
+        "source": "com.gazlaws.codeboard.app-main-21:/layout/new_activity_main.xml"
+    },
+    {
+        "merged": "com.gazlaws.codeboard.app-debug-19:/raw_l.wav.flat",
+        "source": "com.gazlaws.codeboard.app-main-21:/raw/l.wav"
+    },
+    {
+        "merged": "com.gazlaws.codeboard.app-debug-19:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.gazlaws.codeboard.app-main-21:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.gazlaws.codeboard.app-debug-19:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.gazlaws.codeboard.app-main-21:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.gazlaws.codeboard.app-debug-19:/raw_r.wav.flat",
+        "source": "com.gazlaws.codeboard.app-main-21:/raw/r.wav"
+    },
+    {
+        "merged": "com.gazlaws.codeboard.app-debug-19:/xml_method.xml.flat",
+        "source": "com.gazlaws.codeboard.app-main-21:/xml/method.xml"
+    },
+    {
+        "merged": "com.gazlaws.codeboard.app-debug-19:/raw_backspace.wav.flat",
+        "source": "com.gazlaws.codeboard.app-main-21:/raw/backspace.wav"
+    },
+    {
+        "merged": "com.gazlaws.codeboard.app-debug-19:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.gazlaws.codeboard.app-main-21:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.gazlaws.codeboard.app-debug-19:/raw_y.wav.flat",
+        "source": "com.gazlaws.codeboard.app-main-21:/raw/y.wav"
+    },
+    {
+        "merged": "com.gazlaws.codeboard.app-debug-19:/drawable_intro_3.png.flat",
+        "source": "com.gazlaws.codeboard.app-main-21:/drawable/intro_3.png"
+    },
+    {
+        "merged": "com.gazlaws.codeboard.app-debug-19:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.gazlaws.codeboard.app-main-21:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.gazlaws.codeboard.app-debug-19:/raw_caps.wav.flat",
+        "source": "com.gazlaws.codeboard.app-main-21:/raw/caps.wav"
+    },
+    {
+        "merged": "com.gazlaws.codeboard.app-debug-19:/raw_enter.wav.flat",
+        "source": "com.gazlaws.codeboard.app-main-21:/raw/enter.wav"
+    },
+    {
+        "merged": "com.gazlaws.codeboard.app-debug-19:/raw_d.wav.flat",
+        "source": "com.gazlaws.codeboard.app-main-21:/raw/d.wav"
+    },
+    {
+        "merged": "com.gazlaws.codeboard.app-debug-19:/drawable_ic_keyboard_arrow_down_24dp.xml.flat",
+        "source": "com.gazlaws.codeboard.app-main-21:/drawable/ic_keyboard_arrow_down_24dp.xml"
+    },
+    {
+        "merged": "com.gazlaws.codeboard.app-debug-19:/raw_u.wav.flat",
+        "source": "com.gazlaws.codeboard.app-main-21:/raw/u.wav"
+    },
+    {
+        "merged": "com.gazlaws.codeboard.app-debug-19:/drawable_ic_redo_24dp.xml.flat",
+        "source": "com.gazlaws.codeboard.app-main-21:/drawable/ic_redo_24dp.xml"
+    },
+    {
+        "merged": "com.gazlaws.codeboard.app-debug-19:/raw_bracopen.wav.flat",
+        "source": "com.gazlaws.codeboard.app-main-21:/raw/bracopen.wav"
+    },
+    {
+        "merged": "com.gazlaws.codeboard.app-debug-19:/drawable_ic_keyboard_arrow_up_24dp.xml.flat",
+        "source": "com.gazlaws.codeboard.app-main-21:/drawable/ic_keyboard_arrow_up_24dp.xml"
+    },
+    {
+        "merged": "com.gazlaws.codeboard.app-debug-19:/raw_k.wav.flat",
+        "source": "com.gazlaws.codeboard.app-main-21:/raw/k.wav"
+    },
+    {
+        "merged": "com.gazlaws.codeboard.app-debug-19:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.gazlaws.codeboard.app-main-21:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.gazlaws.codeboard.app-debug-19:/raw_j.wav.flat",
+        "source": "com.gazlaws.codeboard.app-main-21:/raw/j.wav"
+    },
+    {
+        "merged": "com.gazlaws.codeboard.app-debug-19:/drawable_enable_screenshot.jpg.flat",
+        "source": "com.gazlaws.codeboard.app-main-21:/drawable/enable_screenshot.jpg"
+    },
+    {
+        "merged": "com.gazlaws.codeboard.app-debug-19:/raw_c.wav.flat",
+        "source": "com.gazlaws.codeboard.app-main-21:/raw/c.wav"
+    },
+    {
+        "merged": "com.gazlaws.codeboard.app-debug-19:/raw_n.wav.flat",
+        "source": "com.gazlaws.codeboard.app-main-21:/raw/n.wav"
+    },
+    {
+        "merged": "com.gazlaws.codeboard.app-debug-19:/drawable_ic_backspace_24dp.xml.flat",
+        "source": "com.gazlaws.codeboard.app-main-21:/drawable/ic_backspace_24dp.xml"
+    },
+    {
+        "merged": "com.gazlaws.codeboard.app-debug-19:/drawable_icon_old_2.png.flat",
+        "source": "com.gazlaws.codeboard.app-main-21:/drawable/icon_old_2.png"
+    },
+    {
+        "merged": "com.gazlaws.codeboard.app-debug-19:/xml_preferences.xml.flat",
+        "source": "com.gazlaws.codeboard.app-main-21:/xml/preferences.xml"
+    },
+    {
+        "merged": "com.gazlaws.codeboard.app-debug-19:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.gazlaws.codeboard.app-main-21:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.gazlaws.codeboard.app-debug-19:/layout_codeboard_intro2.xml.flat",
+        "source": "com.gazlaws.codeboard.app-main-21:/layout/codeboard_intro2.xml"
+    },
+    {
+        "merged": "com.gazlaws.codeboard.app-debug-19:/drawable_ic_cut_24dp.xml.flat",
+        "source": "com.gazlaws.codeboard.app-main-21:/drawable/ic_cut_24dp.xml"
+    },
+    {
+        "merged": "com.gazlaws.codeboard.app-debug-19:/drawable_intro_tutorial.jpg.flat",
+        "source": "com.gazlaws.codeboard.app-main-21:/drawable/intro_tutorial.jpg"
+    },
+    {
+        "merged": "com.gazlaws.codeboard.app-debug-19:/raw_x.wav.flat",
+        "source": "com.gazlaws.codeboard.app-main-21:/raw/x.wav"
+    },
+    {
+        "merged": "com.gazlaws.codeboard.app-debug-19:/raw_g.wav.flat",
+        "source": "com.gazlaws.codeboard.app-main-21:/raw/g.wav"
+    },
+    {
+        "merged": "com.gazlaws.codeboard.app-debug-19:/raw_tab.wav.flat",
+        "source": "com.gazlaws.codeboard.app-main-21:/raw/tab.wav"
+    },
+    {
+        "merged": "com.gazlaws.codeboard.app-debug-19:/raw_q.wav.flat",
+        "source": "com.gazlaws.codeboard.app-main-21:/raw/q.wav"
+    }
+]

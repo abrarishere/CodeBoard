@@ -20,6 +20,7 @@ import android.os.Vibrator;
 import android.util.Log;
 import android.view.KeyEvent;
 import android.view.View;
+import java.util.Random;
 import android.view.ViewConfiguration;
 import android.view.inputmethod.EditorInfo;
 import android.view.inputmethod.InputConnection;
@@ -68,10 +69,9 @@ public class CodeBoardIME extends InputMethodService
     private KeyboardLayoutView mCurrentKeyboardLayoutView = null;
     private boolean longPressedSpaceButton = false;
     int[] soundResources = {
-            R.raw.keypress_sound,
-            R.raw.sound2,
-            R.raw.nd3,
-            R.raw.nd4
+            R.raw.bracopen,
+            R.raw.bracclose,
+            R.raw.caps
     };
 
 
@@ -308,48 +308,49 @@ public class CodeBoardIME extends InputMethodService
     }
 
     public void onPress(final int primaryCode) {
-        if (soundOn) {
-            Random randSound = new Random();
-            int randomSoundIndex = rand.nextInt(4);
-            int soundResource = soundResources[randomSoundIndex];
-            MediaPlayer keypressSoundPlayer = MediaPlayer.create(this, soundResource);
-            keypressSoundPlayer.start();
-            keypressSoundPlayer.setOnCompletionListener(new MediaPlayer.OnCompletionListener() {
-                public void onCompletion(MediaPlayer mp) {
-                    mp.release();
-                }
-            });
-        }
-        if (vibratorOn) {
-            Vibrator vibrator = (Vibrator) getSystemService(Context.VIBRATOR_SERVICE);
-            if (vibrator != null)
-                vibrator.vibrate(vibrateLength);
-        }
-
-        clearLongPressTimer();
-        timerLongPress = new Timer();
-        timerLongPress.schedule(new TimerTask() {
-            @Override
-            public void run() {
-                try {
-                    Handler uiHandler = new Handler(Looper.getMainLooper());
-                    Runnable runnable = new Runnable() {
-                        @Override
-                        public void run() {
-                            try {
-                                CodeBoardIME.this.onKeyLongPress(primaryCode);
-                            } catch (Exception e) {
-                                Log.e(getClass().getSimpleName(), "uiHandler.run: " + e.getMessage(), e);
-                            }
-                        }
-                    };
-                    uiHandler.post(runnable);
-                } catch (Exception e) {
-                    Log.e(getClass().getSimpleName(), "Timer.run: " + e.getMessage(), e);
-                }
+    if (soundOn) {
+        Random randSound = new Random();
+        int randomSoundIndex = randSound.nextInt(3);
+        int soundResource = soundResources[randomSoundIndex];
+        MediaPlayer keypressSoundPlayer = MediaPlayer.create(this, soundResource);
+        keypressSoundPlayer.setOnCompletionListener(new MediaPlayer.OnCompletionListener() {
+            public void onCompletion(MediaPlayer mp) {
+                mp.release();
             }
-        }, ViewConfiguration.getLongPressTimeout());
+        });
+        keypressSoundPlayer.start();
     }
+
+    if (vibratorOn) {
+        Vibrator vibrator = (Vibrator) getSystemService(Context.VIBRATOR_SERVICE);
+        if (vibrator != null)
+            vibrator.vibrate(vibrateLength);
+    }
+
+    clearLongPressTimer();
+    timerLongPress = new Timer();
+    timerLongPress.schedule(new TimerTask() {
+        @Override
+        public void run() {
+            try {
+                Handler uiHandler = new Handler(Looper.getMainLooper());
+                Runnable runnable = new Runnable() {
+                    @Override
+                    public void run() {
+                        try {
+                            CodeBoardIME.this.onKeyLongPress(primaryCode);
+                        } catch (Exception e) {
+                            Log.e(getClass().getSimpleName(), "uiHandler.run: " + e.getMessage(), e);
+                        }
+                    }
+                };
+                uiHandler.post(runnable);
+            } catch (Exception e) {
+                Log.e(getClass().getSimpleName(), "Timer.run: " + e.getMessage(), e);
+            }
+        }
+    }, ViewConfiguration.getLongPressTimeout());
+}
 
     @Override
     public void onWindowHidden() {

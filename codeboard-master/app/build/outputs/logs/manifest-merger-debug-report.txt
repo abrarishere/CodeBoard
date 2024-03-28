@@ -1,0 +1,237 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/abrar/StudioProjects/CodeBoard/codeboard-master/app/src/main/AndroidManifest.xml:1:1-44:12
+INJECTED from /home/abrar/StudioProjects/CodeBoard/codeboard-master/app/src/main/AndroidManifest.xml:1:1-44:12
+INJECTED from /home/abrar/StudioProjects/CodeBoard/codeboard-master/app/src/main/AndroidManifest.xml:1:1-44:12
+INJECTED from /home/abrar/StudioProjects/CodeBoard/codeboard-master/app/src/main/AndroidManifest.xml:1:1-44:12
+MERGED from [androidx.preference:preference:1.1.1] /home/abrar/.gradle/caches/transforms-3/16c018fec3bb48f71daf61da86d16f02/transformed/preference-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.4.0-alpha02] /home/abrar/.gradle/caches/transforms-3/37b549f420ef5a7c1423f718a278dea5/transformed/material-1.4.0-alpha02/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.AppIntro:AppIntro:6.1.0] /home/abrar/.gradle/caches/transforms-3/57594a372c04ced1ebc36392c763e0f0/transformed/jetified-AppIntro-6.1.0/AndroidManifest.xml:2:1-13:12
+MERGED from [com.pes.materialcolorpicker:library:1.2.5] /home/abrar/.gradle/caches/transforms-3/4c0e39ef7e45a7f5f9fd3b79d3a43c81/transformed/jetified-library-1.2.5/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/abrar/.gradle/caches/transforms-3/094f82515452de137948412cb094aa08/transformed/constraintlayout-2.0.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] /home/abrar/.gradle/caches/transforms-3/f0875aba7cc9d90881f27125634dbd00/transformed/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-v13:1.0.0] /home/abrar/.gradle/caches/transforms-3/009fdf5e94f8b3b4313bd932937648ee/transformed/legacy-support-v13-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/abrar/.gradle/caches/transforms-3/5d1ea95cdefa1a852a68b901c64508a4/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/abrar/.gradle/caches/transforms-3/47a01a4f91bdde57e5fbfaf5a2716b87/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/abrar/.gradle/caches/transforms-3/18656e177eae07765faa0c0a74d61a2e/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /home/abrar/.gradle/caches/transforms-3/f638233531c77c7c86d141338b2c41a3/transformed/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/abrar/.gradle/caches/transforms-3/3b7eaf20e794697ef3788367efebf1e0/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/abrar/.gradle/caches/transforms-3/73b79e1ad7a55a116d45fb55f305df60/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.4] /home/abrar/.gradle/caches/transforms-3/3fd6cf3a772faba71e5130e5afd9ad6d/transformed/fragment-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/abrar/.gradle/caches/transforms-3/2bba07096c51a5f2f5a9ac07dab454bf/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/abrar/.gradle/caches/transforms-3/fb43383e318cf0729c2fb3a6804f09ad/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] /home/abrar/.gradle/caches/transforms-3/70fdd2fe8eb1adca98b6320f733ce530/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/abrar/.gradle/caches/transforms-3/59a916a7958b337822b27db0eaa5ee79/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/abrar/.gradle/caches/transforms-3/cc747396d16c5f0e8999e4f9b8a1d331/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/abrar/.gradle/caches/transforms-3/2135d5c436e3d836f883f4fc9c1696a0/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/abrar/.gradle/caches/transforms-3/8249b0512bf8f7532e27ea219cb89304/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/abrar/.gradle/caches/transforms-3/739353abdbbfa8057e088dcfed336049/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/abrar/.gradle/caches/transforms-3/b3ebad5dcf0931eefdb1ada8779cc430/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /home/abrar/.gradle/caches/transforms-3/0300325878c017fe73cea41441300008/transformed/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/abrar/.gradle/caches/transforms-3/7e7f95b264c99d63ece64db5a507ebb8/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/abrar/.gradle/caches/transforms-3/c27606c1fdac55f3deb3deb2569654bf/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/abrar/.gradle/caches/transforms-3/d492a195866aa1adbc0c0050a223abd3/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.1.0] /home/abrar/.gradle/caches/transforms-3/ab0dab7b50b8e86e366b2d1695fcee82/transformed/jetified-activity-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/abrar/.gradle/caches/transforms-3/218a01293bcfae10d861ab0360e3d85c/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/abrar/.gradle/caches/transforms-3/74ea84776f4ba81f7d0138de1acb3e62/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.1] /home/abrar/.gradle/caches/transforms-3/cc6b1e178722ba5cce0fe6a81d25424c/transformed/core-1.3.1/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/abrar/.gradle/caches/transforms-3/4d08cce0c6b5cc998eacd95646fc7fc0/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /home/abrar/.gradle/caches/transforms-3/f84097559a6aa7fc2c410fc3ca89414c/transformed/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /home/abrar/.gradle/caches/transforms-3/beeb067cb2968975c5825b6d20697392/transformed/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/abrar/.gradle/caches/transforms-3/d00897b028d34e79c4203f9a5bbe1c69/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/abrar/.gradle/caches/transforms-3/1466a2f4cc34742217a416be7b4ce585/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/abrar/.gradle/caches/transforms-3/1da455f60d3d119603773b52a6aa2fb7/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/abrar/.gradle/caches/transforms-3/833196caac34228135b3789590088c27/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/abrar/.gradle/caches/transforms-3/88f11193d04ebb1c40fb8bf01632d3a8/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/abrar/.gradle/caches/transforms-3/0a2d17aef4b2981ae1a5276447040b4c/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/abrar/.gradle/caches/transforms-3/fc7cfe308b6b7669a08f83e23f6b68b5/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /home/abrar/.gradle/caches/transforms-3/e5e2ca43fbb56a51023f106aadf865c2/transformed/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/abrar/.gradle/caches/transforms-3/4eaff65767bc7d69ccacc8c83ef35173/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/abrar/.gradle/caches/transforms-3/3514cab633a89a2ad10880caccbba480/transformed/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
+	package
+		INJECTED from /home/abrar/StudioProjects/CodeBoard/codeboard-master/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/abrar/StudioProjects/CodeBoard/codeboard-master/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/abrar/StudioProjects/CodeBoard/codeboard-master/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/abrar/StudioProjects/CodeBoard/codeboard-master/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.VIBRATE
+ADDED from /home/abrar/StudioProjects/CodeBoard/codeboard-master/app/src/main/AndroidManifest.xml:2:5-65
+	android:name
+		ADDED from /home/abrar/StudioProjects/CodeBoard/codeboard-master/app/src/main/AndroidManifest.xml:2:22-63
+application
+ADDED from /home/abrar/StudioProjects/CodeBoard/codeboard-master/app/src/main/AndroidManifest.xml:4:5-42:19
+INJECTED from /home/abrar/StudioProjects/CodeBoard/codeboard-master/app/src/main/AndroidManifest.xml:4:5-42:19
+MERGED from [com.google.android.material:material:1.4.0-alpha02] /home/abrar/.gradle/caches/transforms-3/37b549f420ef5a7c1423f718a278dea5/transformed/material-1.4.0-alpha02/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.4.0-alpha02] /home/abrar/.gradle/caches/transforms-3/37b549f420ef5a7c1423f718a278dea5/transformed/material-1.4.0-alpha02/AndroidManifest.xml:22:5-20
+MERGED from [com.github.AppIntro:AppIntro:6.1.0] /home/abrar/.gradle/caches/transforms-3/57594a372c04ced1ebc36392c763e0f0/transformed/jetified-AppIntro-6.1.0/AndroidManifest.xml:11:5-20
+MERGED from [com.github.AppIntro:AppIntro:6.1.0] /home/abrar/.gradle/caches/transforms-3/57594a372c04ced1ebc36392c763e0f0/transformed/jetified-AppIntro-6.1.0/AndroidManifest.xml:11:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/abrar/.gradle/caches/transforms-3/094f82515452de137948412cb094aa08/transformed/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/abrar/.gradle/caches/transforms-3/094f82515452de137948412cb094aa08/transformed/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.3.1] /home/abrar/.gradle/caches/transforms-3/cc6b1e178722ba5cce0fe6a81d25424c/transformed/core-1.3.1/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.1] /home/abrar/.gradle/caches/transforms-3/cc6b1e178722ba5cce0fe6a81d25424c/transformed/core-1.3.1/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/abrar/.gradle/caches/transforms-3/4d08cce0c6b5cc998eacd95646fc7fc0/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/abrar/.gradle/caches/transforms-3/4d08cce0c6b5cc998eacd95646fc7fc0/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:extractNativeLibs
+		INJECTED from /home/abrar/StudioProjects/CodeBoard/codeboard-master/app/src/main/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.1] /home/abrar/.gradle/caches/transforms-3/cc6b1e178722ba5cce0fe6a81d25424c/transformed/core-1.3.1/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /home/abrar/StudioProjects/CodeBoard/codeboard-master/app/src/main/AndroidManifest.xml:8:9-35
+	android:label
+		ADDED from /home/abrar/StudioProjects/CodeBoard/codeboard-master/app/src/main/AndroidManifest.xml:7:9-41
+	android:windowSoftInputMode
+		ADDED from /home/abrar/StudioProjects/CodeBoard/codeboard-master/app/src/main/AndroidManifest.xml:10:9-69
+	android:icon
+		ADDED from /home/abrar/StudioProjects/CodeBoard/codeboard-master/app/src/main/AndroidManifest.xml:6:9-49
+	android:allowBackup
+		ADDED from /home/abrar/StudioProjects/CodeBoard/codeboard-master/app/src/main/AndroidManifest.xml:5:9-35
+	android:theme
+		ADDED from /home/abrar/StudioProjects/CodeBoard/codeboard-master/app/src/main/AndroidManifest.xml:9:9-40
+service#com.gazlaws.codeboard.CodeBoardIME
+ADDED from /home/abrar/StudioProjects/CodeBoard/codeboard-master/app/src/main/AndroidManifest.xml:12:9-22:19
+	android:label
+		ADDED from /home/abrar/StudioProjects/CodeBoard/codeboard-master/app/src/main/AndroidManifest.xml:14:13-50
+	android:permission
+		ADDED from /home/abrar/StudioProjects/CodeBoard/codeboard-master/app/src/main/AndroidManifest.xml:15:13-70
+	android:name
+		ADDED from /home/abrar/StudioProjects/CodeBoard/codeboard-master/app/src/main/AndroidManifest.xml:13:13-41
+meta-data#android.view.im
+ADDED from /home/abrar/StudioProjects/CodeBoard/codeboard-master/app/src/main/AndroidManifest.xml:16:13-18:50
+	android:resource
+		ADDED from /home/abrar/StudioProjects/CodeBoard/codeboard-master/app/src/main/AndroidManifest.xml:18:17-47
+	android:name
+		ADDED from /home/abrar/StudioProjects/CodeBoard/codeboard-master/app/src/main/AndroidManifest.xml:17:17-47
+intent-filter#action:name:android.view.InputMethod
+ADDED from /home/abrar/StudioProjects/CodeBoard/codeboard-master/app/src/main/AndroidManifest.xml:19:13-21:29
+action#android.view.InputMethod
+ADDED from /home/abrar/StudioProjects/CodeBoard/codeboard-master/app/src/main/AndroidManifest.xml:20:17-67
+	android:name
+		ADDED from /home/abrar/StudioProjects/CodeBoard/codeboard-master/app/src/main/AndroidManifest.xml:20:25-64
+activity#com.gazlaws.codeboard.MainActivity
+ADDED from /home/abrar/StudioProjects/CodeBoard/codeboard-master/app/src/main/AndroidManifest.xml:25:9-33:20
+	android:label
+		ADDED from /home/abrar/StudioProjects/CodeBoard/codeboard-master/app/src/main/AndroidManifest.xml:26:13-45
+	android:launchMode
+		ADDED from /home/abrar/StudioProjects/CodeBoard/codeboard-master/app/src/main/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from /home/abrar/StudioProjects/CodeBoard/codeboard-master/app/src/main/AndroidManifest.xml:25:19-68
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/abrar/StudioProjects/CodeBoard/codeboard-master/app/src/main/AndroidManifest.xml:29:13-32:29
+action#android.intent.action.MAIN
+ADDED from /home/abrar/StudioProjects/CodeBoard/codeboard-master/app/src/main/AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from /home/abrar/StudioProjects/CodeBoard/codeboard-master/app/src/main/AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/abrar/StudioProjects/CodeBoard/codeboard-master/app/src/main/AndroidManifest.xml:31:17-77
+	android:name
+		ADDED from /home/abrar/StudioProjects/CodeBoard/codeboard-master/app/src/main/AndroidManifest.xml:31:27-74
+activity#com.gazlaws.codeboard.IntroActivity
+ADDED from /home/abrar/StudioProjects/CodeBoard/codeboard-master/app/src/main/AndroidManifest.xml:35:9-36:49
+	android:label
+		ADDED from /home/abrar/StudioProjects/CodeBoard/codeboard-master/app/src/main/AndroidManifest.xml:36:13-46
+	android:name
+		ADDED from /home/abrar/StudioProjects/CodeBoard/codeboard-master/app/src/main/AndroidManifest.xml:35:19-48
+uses-library#android.test.runner
+ADDED from /home/abrar/StudioProjects/CodeBoard/codeboard-master/app/src/main/AndroidManifest.xml:39:9-40:40
+	android:required
+		ADDED from /home/abrar/StudioProjects/CodeBoard/codeboard-master/app/src/main/AndroidManifest.xml:40:13-37
+	android:name
+		ADDED from /home/abrar/StudioProjects/CodeBoard/codeboard-master/app/src/main/AndroidManifest.xml:39:23-57
+uses-sdk
+INJECTED from /home/abrar/StudioProjects/CodeBoard/codeboard-master/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/abrar/StudioProjects/CodeBoard/codeboard-master/app/src/main/AndroidManifest.xml
+INJECTED from /home/abrar/StudioProjects/CodeBoard/codeboard-master/app/src/main/AndroidManifest.xml
+MERGED from [androidx.preference:preference:1.1.1] /home/abrar/.gradle/caches/transforms-3/16c018fec3bb48f71daf61da86d16f02/transformed/preference-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.preference:preference:1.1.1] /home/abrar/.gradle/caches/transforms-3/16c018fec3bb48f71daf61da86d16f02/transformed/preference-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.4.0-alpha02] /home/abrar/.gradle/caches/transforms-3/37b549f420ef5a7c1423f718a278dea5/transformed/material-1.4.0-alpha02/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0-alpha02] /home/abrar/.gradle/caches/transforms-3/37b549f420ef5a7c1423f718a278dea5/transformed/material-1.4.0-alpha02/AndroidManifest.xml:20:5-44
+MERGED from [com.github.AppIntro:AppIntro:6.1.0] /home/abrar/.gradle/caches/transforms-3/57594a372c04ced1ebc36392c763e0f0/transformed/jetified-AppIntro-6.1.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.AppIntro:AppIntro:6.1.0] /home/abrar/.gradle/caches/transforms-3/57594a372c04ced1ebc36392c763e0f0/transformed/jetified-AppIntro-6.1.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.pes.materialcolorpicker:library:1.2.5] /home/abrar/.gradle/caches/transforms-3/4c0e39ef7e45a7f5f9fd3b79d3a43c81/transformed/jetified-library-1.2.5/AndroidManifest.xml:7:5-9:41
+MERGED from [com.pes.materialcolorpicker:library:1.2.5] /home/abrar/.gradle/caches/transforms-3/4c0e39ef7e45a7f5f9fd3b79d3a43c81/transformed/jetified-library-1.2.5/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/abrar/.gradle/caches/transforms-3/094f82515452de137948412cb094aa08/transformed/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/abrar/.gradle/caches/transforms-3/094f82515452de137948412cb094aa08/transformed/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /home/abrar/.gradle/caches/transforms-3/f0875aba7cc9d90881f27125634dbd00/transformed/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /home/abrar/.gradle/caches/transforms-3/f0875aba7cc9d90881f27125634dbd00/transformed/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-v13:1.0.0] /home/abrar/.gradle/caches/transforms-3/009fdf5e94f8b3b4313bd932937648ee/transformed/legacy-support-v13-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v13:1.0.0] /home/abrar/.gradle/caches/transforms-3/009fdf5e94f8b3b4313bd932937648ee/transformed/legacy-support-v13-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/abrar/.gradle/caches/transforms-3/5d1ea95cdefa1a852a68b901c64508a4/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/abrar/.gradle/caches/transforms-3/5d1ea95cdefa1a852a68b901c64508a4/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/abrar/.gradle/caches/transforms-3/47a01a4f91bdde57e5fbfaf5a2716b87/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/abrar/.gradle/caches/transforms-3/47a01a4f91bdde57e5fbfaf5a2716b87/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/abrar/.gradle/caches/transforms-3/18656e177eae07765faa0c0a74d61a2e/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/abrar/.gradle/caches/transforms-3/18656e177eae07765faa0c0a74d61a2e/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /home/abrar/.gradle/caches/transforms-3/f638233531c77c7c86d141338b2c41a3/transformed/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /home/abrar/.gradle/caches/transforms-3/f638233531c77c7c86d141338b2c41a3/transformed/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/abrar/.gradle/caches/transforms-3/3b7eaf20e794697ef3788367efebf1e0/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/abrar/.gradle/caches/transforms-3/3b7eaf20e794697ef3788367efebf1e0/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/abrar/.gradle/caches/transforms-3/73b79e1ad7a55a116d45fb55f305df60/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/abrar/.gradle/caches/transforms-3/73b79e1ad7a55a116d45fb55f305df60/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.4] /home/abrar/.gradle/caches/transforms-3/3fd6cf3a772faba71e5130e5afd9ad6d/transformed/fragment-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.4] /home/abrar/.gradle/caches/transforms-3/3fd6cf3a772faba71e5130e5afd9ad6d/transformed/fragment-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /home/abrar/.gradle/caches/transforms-3/2bba07096c51a5f2f5a9ac07dab454bf/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/abrar/.gradle/caches/transforms-3/2bba07096c51a5f2f5a9ac07dab454bf/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/abrar/.gradle/caches/transforms-3/fb43383e318cf0729c2fb3a6804f09ad/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/abrar/.gradle/caches/transforms-3/fb43383e318cf0729c2fb3a6804f09ad/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /home/abrar/.gradle/caches/transforms-3/70fdd2fe8eb1adca98b6320f733ce530/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /home/abrar/.gradle/caches/transforms-3/70fdd2fe8eb1adca98b6320f733ce530/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/abrar/.gradle/caches/transforms-3/59a916a7958b337822b27db0eaa5ee79/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/abrar/.gradle/caches/transforms-3/59a916a7958b337822b27db0eaa5ee79/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/abrar/.gradle/caches/transforms-3/cc747396d16c5f0e8999e4f9b8a1d331/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/abrar/.gradle/caches/transforms-3/cc747396d16c5f0e8999e4f9b8a1d331/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/abrar/.gradle/caches/transforms-3/2135d5c436e3d836f883f4fc9c1696a0/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/abrar/.gradle/caches/transforms-3/2135d5c436e3d836f883f4fc9c1696a0/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/abrar/.gradle/caches/transforms-3/8249b0512bf8f7532e27ea219cb89304/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/abrar/.gradle/caches/transforms-3/8249b0512bf8f7532e27ea219cb89304/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/abrar/.gradle/caches/transforms-3/739353abdbbfa8057e088dcfed336049/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/abrar/.gradle/caches/transforms-3/739353abdbbfa8057e088dcfed336049/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/abrar/.gradle/caches/transforms-3/b3ebad5dcf0931eefdb1ada8779cc430/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/abrar/.gradle/caches/transforms-3/b3ebad5dcf0931eefdb1ada8779cc430/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/abrar/.gradle/caches/transforms-3/0300325878c017fe73cea41441300008/transformed/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/abrar/.gradle/caches/transforms-3/0300325878c017fe73cea41441300008/transformed/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/abrar/.gradle/caches/transforms-3/7e7f95b264c99d63ece64db5a507ebb8/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/abrar/.gradle/caches/transforms-3/7e7f95b264c99d63ece64db5a507ebb8/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/abrar/.gradle/caches/transforms-3/c27606c1fdac55f3deb3deb2569654bf/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/abrar/.gradle/caches/transforms-3/c27606c1fdac55f3deb3deb2569654bf/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/abrar/.gradle/caches/transforms-3/d492a195866aa1adbc0c0050a223abd3/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/abrar/.gradle/caches/transforms-3/d492a195866aa1adbc0c0050a223abd3/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.1.0] /home/abrar/.gradle/caches/transforms-3/ab0dab7b50b8e86e366b2d1695fcee82/transformed/jetified-activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] /home/abrar/.gradle/caches/transforms-3/ab0dab7b50b8e86e366b2d1695fcee82/transformed/jetified-activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/abrar/.gradle/caches/transforms-3/218a01293bcfae10d861ab0360e3d85c/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/abrar/.gradle/caches/transforms-3/218a01293bcfae10d861ab0360e3d85c/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/abrar/.gradle/caches/transforms-3/74ea84776f4ba81f7d0138de1acb3e62/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/abrar/.gradle/caches/transforms-3/74ea84776f4ba81f7d0138de1acb3e62/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.1] /home/abrar/.gradle/caches/transforms-3/cc6b1e178722ba5cce0fe6a81d25424c/transformed/core-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] /home/abrar/.gradle/caches/transforms-3/cc6b1e178722ba5cce0fe6a81d25424c/transformed/core-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/abrar/.gradle/caches/transforms-3/4d08cce0c6b5cc998eacd95646fc7fc0/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/abrar/.gradle/caches/transforms-3/4d08cce0c6b5cc998eacd95646fc7fc0/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /home/abrar/.gradle/caches/transforms-3/f84097559a6aa7fc2c410fc3ca89414c/transformed/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /home/abrar/.gradle/caches/transforms-3/f84097559a6aa7fc2c410fc3ca89414c/transformed/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /home/abrar/.gradle/caches/transforms-3/beeb067cb2968975c5825b6d20697392/transformed/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /home/abrar/.gradle/caches/transforms-3/beeb067cb2968975c5825b6d20697392/transformed/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/abrar/.gradle/caches/transforms-3/d00897b028d34e79c4203f9a5bbe1c69/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/abrar/.gradle/caches/transforms-3/d00897b028d34e79c4203f9a5bbe1c69/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/abrar/.gradle/caches/transforms-3/1466a2f4cc34742217a416be7b4ce585/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/abrar/.gradle/caches/transforms-3/1466a2f4cc34742217a416be7b4ce585/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/abrar/.gradle/caches/transforms-3/1da455f60d3d119603773b52a6aa2fb7/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/abrar/.gradle/caches/transforms-3/1da455f60d3d119603773b52a6aa2fb7/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/abrar/.gradle/caches/transforms-3/833196caac34228135b3789590088c27/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/abrar/.gradle/caches/transforms-3/833196caac34228135b3789590088c27/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/abrar/.gradle/caches/transforms-3/88f11193d04ebb1c40fb8bf01632d3a8/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/abrar/.gradle/caches/transforms-3/88f11193d04ebb1c40fb8bf01632d3a8/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/abrar/.gradle/caches/transforms-3/0a2d17aef4b2981ae1a5276447040b4c/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/abrar/.gradle/caches/transforms-3/0a2d17aef4b2981ae1a5276447040b4c/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/abrar/.gradle/caches/transforms-3/fc7cfe308b6b7669a08f83e23f6b68b5/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/abrar/.gradle/caches/transforms-3/fc7cfe308b6b7669a08f83e23f6b68b5/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /home/abrar/.gradle/caches/transforms-3/e5e2ca43fbb56a51023f106aadf865c2/transformed/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /home/abrar/.gradle/caches/transforms-3/e5e2ca43fbb56a51023f106aadf865c2/transformed/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/abrar/.gradle/caches/transforms-3/4eaff65767bc7d69ccacc8c83ef35173/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/abrar/.gradle/caches/transforms-3/4eaff65767bc7d69ccacc8c83ef35173/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/abrar/.gradle/caches/transforms-3/3514cab633a89a2ad10880caccbba480/transformed/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/abrar/.gradle/caches/transforms-3/3514cab633a89a2ad10880caccbba480/transformed/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+	android:targetSdkVersion
+		INJECTED from /home/abrar/StudioProjects/CodeBoard/codeboard-master/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/abrar/StudioProjects/CodeBoard/codeboard-master/app/src/main/AndroidManifest.xml
